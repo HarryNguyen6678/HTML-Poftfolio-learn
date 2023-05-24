@@ -13,7 +13,7 @@ body {
 .navbar span {
   left: 50%;
   color: #fff !important;
-  font-size: 150%;
+  font-size: 1.5rem;
 }
 .navbar li a {
   color: rgba(255, 255, 255, 0.9) !important;
