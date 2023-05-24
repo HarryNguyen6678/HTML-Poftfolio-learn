@@ -13,10 +13,10 @@ body {
 .navbar span {
   left: 50%;
   color: #fff !important;
+  font-size: 150%;
 }
 .navbar li a {
   color: rgba(255, 255, 255, 0.9) !important;
-  font-size: 200%;
 }
 .navbar li a:hover {
   color: rgba(45, 43, 43, 0.9) !important;
