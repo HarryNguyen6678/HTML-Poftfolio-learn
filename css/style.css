@@ -8,7 +8,7 @@ body {
 }
 /* Navigator */
 .navbar {
-  background-color: rgba(253, 131, 132, 1) !important;
+  background-color: rgb(113, 202, 128) !important;
 }
 .navbar span {
   left: 50%;
@@ -141,22 +141,22 @@ body {
 
 /* Welcome */
 .welcome hr {
-  border-top: 2px solid rgba(253, 131, 132, 0.6);
+  border-top: 2px solid rgb(113, 202, 128, 0.6);
   width: 95%;
   margin-bottom: 2rem;
 }
 hr.my-2 {
-  border-top: 2px solid rgba(253, 131, 132, 0.6);
+  border-top: 2px solid rgb(113, 202, 128, 0.6);
   width: 95%;
   margin-bottom: 2rem;
 }
 hr.my-3 {
-  border-top: 2px solid rgba(253, 131, 132, 0.6);
+  border-top: 2px solid rgb(113, 202, 128, 0.6);
   width: 97%;
   margin-bottom: 2rem;
 }
 hr.my-4 {
-  border-top: 2px solid rgba(253, 131, 132, 0.6);
+  border-top: 2px solid rgb(113, 202, 128, 0.6);
   width: 95%;
   margin-bottom: 2rem;
 }
@@ -191,7 +191,7 @@ hr.my-4 {
 }
 /* Footer */
 footer {
-  background-color: rgba(253, 131, 132, 1);
+  background-color: rgb(113, 202, 128);
   color: #fff;
   padding: 2rem;
 }
